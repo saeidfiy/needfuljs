@@ -1,0 +1,15 @@
+{
+  "name": "needfuljs",
+  "version": "1.0.0",
+  "description": "Javascript codes you will always need",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saeidfiy/needfuljs"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "saeidfiy",
+  "license": "ISC"
+}
